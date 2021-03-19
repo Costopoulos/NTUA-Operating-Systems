@@ -1,0 +1,1 @@
+gcc fconc.c -o fconc
