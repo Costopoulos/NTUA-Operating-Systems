@@ -1,1 +1,1 @@
-makefile se ola auths ths askhshs(4)
+This makefile compiles the questions 4.1 and 4.2 as well
